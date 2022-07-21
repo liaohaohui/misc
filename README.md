@@ -1,2 +1,8 @@
 # misc
+
 Miscellaneous files for Lectures
+
+* UECM3993-202207211100-T1.png
+* UECM3993-202207211200-T2.png
+* UECM3993-202207211600-T3.png
+* UECM3993-202207211700-L1.png
