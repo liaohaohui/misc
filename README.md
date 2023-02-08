@@ -1,8 +1,7 @@
 # misc
 
-Miscellaneous files for Lectures
+This folder is for storing files relevant to the attendance management of the class UECM3993 Predictive Modelling.
 
-* UECM3993-202207211100-T1.png
-* UECM3993-202207211200-T2.png
-* UECM3993-202207211600-T3.png
-* UECM3993-202207211700-L1.png
+The lecture notes, tutorials and practical scripts can be found from
+
+https://liaohaohui.github.io/UECM3993/
