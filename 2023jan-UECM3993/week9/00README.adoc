@@ -1,3 +1,0 @@
-QR codes for Week 9.
-
-Plan: Complete Decision Trees, Bias-Variance Theory and Ensemble Methods.
