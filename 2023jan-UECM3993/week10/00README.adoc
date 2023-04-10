@@ -1,5 +1,0 @@
-QR codes for Week 10.
-
-Plan:
-* Discuss on dimensional reduction methods.
-* Fix the timetable for Oral Presentation.
